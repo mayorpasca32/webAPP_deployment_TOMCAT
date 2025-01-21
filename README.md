@@ -1,4 +1,4 @@
-# cohorts_project
+# tomcat-app_project
 
 Mobile App you can purchase airtime
 send and receive money
